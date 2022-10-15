@@ -1,10 +1,14 @@
-# Comand
+# Command
 ```
 * npx create-react-app my-project
 * cd my-project
 * npm install -D tailwindcss postcss autoprefixer
 * npx tailwindcss init -p
 * npm i daisyui
+```
+## React Router
+```
+npm install react-router-dom
 ```
 ### tailwind.config.js
 ```
