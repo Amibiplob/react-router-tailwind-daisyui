@@ -1,10 +1,10 @@
 # Command
 ```
-* npx create-react-app my-project
-* cd my-project
-* npm install -D tailwindcss postcss autoprefixer
-* npx tailwindcss init -p
-* npm i daisyui
+ npx create-react-app my-project
+ cd my-project
+ npm install -D tailwindcss postcss autoprefixer
+ npx tailwindcss init -p
+ npm i daisyui
 ```
 ## React Router
 ```
