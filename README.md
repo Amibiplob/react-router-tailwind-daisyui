@@ -29,3 +29,15 @@ module.exports = {
 @tailwind components;
 @tailwind utilities;
 ```
+### Chrome JSON Viewer
+```
+https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh
+```
+### Node JS
+```
+https://nodejs.org/en/download/
+```
+### Git Scm
+```
+https://git-scm.com/download/win
+```
